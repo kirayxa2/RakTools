@@ -7,7 +7,8 @@
 	<a href="https://github.com/kirayxa2/RakTools"><img src="https://img.shields.io/github/v/release/richie0866/orca?include_prereleases" alt="Latest Release" /></a>
 </div>
 <div>&nbsp;</div>
-# 📌 Latest Release
+
+# 📌 Latest release
 ### :newspaper: Included Features
 
  - [x] Breach Security
