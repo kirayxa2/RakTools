@@ -1,5 +1,5 @@
 <h1 align="center">📖 RakTools</h1>
-<h1 align="center">I got access back, Updates will be coming soon!</h1>
+<h1 align="center">no more updates. I going to other projects sorry</h1>
 <div align="center">This is my new multi tool!</div>
 <div align="center">Current Version : **1.1.1**</div>
 <br>
